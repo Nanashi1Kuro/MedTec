@@ -1,3 +1,6 @@
 [submodule "ML_models/freegpt-webui"]
 	path = ML_models/freegpt-webui
 	url = https://github.com/ChatTeach/FreeGPT.git
+[submodule "ML_models/gpt"]
+	path = ML_models/gpt
+	url = https://github.com/xtekky/gpt4free.git
